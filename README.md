@@ -34,13 +34,17 @@ Quando estiver em uma tela de album ele deve ver as musicas e conseguir ouvir um
 
 ### Tela principal
 
-[MOCK DA TELA]
+![](https://github.com/guilhermepedroso/front-end-challenge/raw/master/home_1.jpg)
+
+![](https://github.com/guilhermepedroso/front-end-challenge/raw/master/home_2.jpg)
 
 ### Tela de album
 
-[MOCK DA TELA]
+![](https://github.com/guilhermepedroso/front-end-challenge/raw/master/list.jpg)
 
 ### Guide
+
+![](https://github.com/guilhermepedroso/front-end-challenge/raw/master/guide.jpg)
 
 ## Api
 
